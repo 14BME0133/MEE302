@@ -1,2 +1,2 @@
 MEE302 
-#  Design of Machine Elements
+# Design of Machine Elements
